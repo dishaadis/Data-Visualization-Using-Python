@@ -4,9 +4,13 @@
 
 ## Project Description
 <p align="justify">
+Assessing business performance is very crucial for a company. This project will carry out an in-depth analysis of business operations in the hotel sector. The main goal of this project is to explore information about how customer behavior impacts the hotel booking process, including its correlation with booking cancellation rates. The results of the insights obtained will be conveyed through a visual representation of the data to facilitate understanding and increase its persuasive power.
 
 <p align="justify">
-Overall, this business performance analysis project for e-commerce companies has a comprehensive focus involving three main metrics: user growth, product quality, and payment types. The analysis results will provide the company with in-depth insight into areas needing improvement to succeed tremendously in this competitive market.
+By delving into customer behavior patterns, we aim to uncover valuable insights that can inform strategic decisions for the hotel industry. Understanding the factors that influence booking cancellations and identifying trends in customer preferences can help hotels refine their marketing strategies, pricing models, and customer service approaches. Additionally, visual representations, such as graphs and charts, will provide a clear and compelling way to communicate these findings to stakeholders, making it easier for them to grasp the implications and take action. The project will focus on identifying issues and offer actionable recommendations for improving business performance and the overall guest experience.
+
+<p align="justify">
+In conclusion, this analysis project is a valuable tool for adapting and thriving in a dynamic market for the hotel sector. It highlights the significance of customer behavior in shaping booking patterns and cancellations, ultimately leading to data-driven strategies that can boost revenue, minimize cancellations, and foster customer loyalty in the competitive world of hospitality.
 </p>
 
 ## Repository Structure
@@ -41,7 +45,7 @@ The analysis process carried out in this project is as follows :
   
   1. Data Preprocessing
   2. Analyzing Monthly Hotel Booking Analysis Based on Hotel Type
-  3. Analyzing the Impact of Duration of Stay on Hotel Booking Cancellation Rates
+  3. Analyzing the Impact of Stay Duration on Hotel Booking Cancellation Rates
   4. Analyzing the Impact of Lead Time on Hotel Booking Cancellation Rates
   
 </p>
