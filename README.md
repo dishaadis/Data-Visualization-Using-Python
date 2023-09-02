@@ -35,7 +35,7 @@ This directory contains the following files :
 <p align="justify">
 This directory contains the following files :
   
-  * **Hotel Business Data Visualization.ipynb** : source code to perform data preprocessing and visualization
+  * **Hotel Business Data Visualization.ipynb** : Source code to perform data preprocessing and visualization
   
 </p>
 
@@ -54,7 +54,7 @@ The analysis process carried out in this project is as follows :
 <p align="justify">
 This directory contains the following files :
 
-  * **Hotel Business Data Visualization Report.pdf** : Reports on analysis steps, Data Preprocessing, visualizations, interpretations, insights and recommendations.
+  * **Hotel Business Data Visualization Report.pdf** : Reports on analysis steps, data preprocessing, visualizations, interpretations, insights and recommendations.
 </p>
 
 ## Software Requirements
